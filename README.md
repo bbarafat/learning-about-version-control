@@ -4,4 +4,4 @@ Learning about Version Control
 ## Author
 - Bright Arafat Bello
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
